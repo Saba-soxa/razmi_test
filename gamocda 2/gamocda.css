@@ -9,9 +9,7 @@ header {
    background: #ff0000;
    color: #000000;
    padding: 10px  20px;
-   display: flex;
    justify-content: space-between;
-   align-items: center;
 }
 
 header .logo {
@@ -22,13 +20,7 @@ header .logo {
 
 header ul {
     list-style: none;
-    margin: 0;
-    padding: 0;
     display: flex;
-}
-
-header ul li {
-    margin: 0 10px;
 }
 
 header ul li a {
